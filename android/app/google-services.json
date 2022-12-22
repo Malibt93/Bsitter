@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594007476222",
+    "project_id": "bsitter-515e6",
+    "storage_bucket": "bsitter-515e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594007476222:android:feafb4a9d5afcd743522af",
+        "android_client_info": {
+          "package_name": "com.maliba.bsitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594007476222-c1j3dk3q93rjv85tpunk1va3l8lqbeh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maliba.bsitter",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "594007476222-fofpfjlp3d7qroo9blp1vrn2vottk2u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiJc8wSrr77pjMS8-S1evipDnJAMxcTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594007476222-fofpfjlp3d7qroo9blp1vrn2vottk2u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
